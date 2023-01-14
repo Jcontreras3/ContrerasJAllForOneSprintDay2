@@ -1,0 +1,132 @@
+body{
+    background-color:#5F5F5F ;
+}
+
+.boxRow{
+    justify-content: center;
+    display: flex;
+    margin-top: 2rem;
+    background-color: black;
+}
+
+.blackBoxBg{
+    width: 95%;
+    background-color: black;
+    height: 40rem;
+}
+
+.whiteBox{
+    background-color: #D9D9D9;
+    width: 96%;
+    margin-top: 1rem;
+    margin-left: 3rem;
+    height: 35rem;
+    align-items: center;
+    display: flex;
+}
+.whiteBox2{
+    background-color: #D9D9D9;
+    width: 96%;
+    margin-top: 1rem;
+    
+    height: 35rem;
+}
+
+.titleTxt{
+    margin-left: 25rem;
+    font-family: 'Gugi', cursive;
+    font-size: 60px;
+}
+
+.jboyTxt{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: 1rem;
+    font-family: 'Gugi', cursive;
+}
+
+.startBtn{
+    border-radius: 80%;
+    height:150px;
+    width: 150px;
+    background-color: black;
+    margin-left: 30rem;
+}
+
+.startBtnCol{
+    margin-top: 5rem;
+}
+
+.redBtnsCols{
+    margin-top: 5rem;
+}
+
+.backBtn{
+    margin-left: 20rem;
+    border-radius: 80%;
+    height:150px;
+    width: 150px;
+}
+
+.forWardBtn{
+    border-radius: 80%;
+    height:150px;
+    width: 150px;
+    margin-left: 1rem;
+}
+
+.lvlBtn1{
+    border-radius: 80%;
+    height:100px;
+    width: 100px;
+    background-color: black;
+}
+
+.firstColBtn{
+    width: 100px;
+}
+
+
+
+
+.k{
+    justify-content: center;
+    display: flex;
+}
+.e{
+    justify-content: center;
+    display: flex;
+    margin-top: 6rem;
+}
+.f{
+    justify-content: center;
+    display: flex;
+    margin-top: 6rem;
+    margin-left: 15rem;
+}
+.q{
+    justify-content: center;
+    display: flex;
+}
+
+.numTxt{
+    font-size: 30px;
+    font-family: 'Gugi', cursive;
+}
+.headerTxt{
+    text-align: center;
+    font-family: 'Gugi', cursive;
+    margin-top: 2rem;
+}
+
+.resultTxt{
+    text-align: center;
+    font-family: 'Gugi', cursive;
+    margin-top: 5rem;
+}
+
+.subBtn{
+    justify-content: center;
+    display: flex;
+}
